@@ -1,0 +1,21 @@
+[
+    {
+        "room_num": 1,
+        "title": "The Bridge",
+        "description": "As you step onto the bridge of the abandoned spaceship, a cold chill runs down your spine. The once bustling nerve center of this vessel now lies eerily silent and desolate. Dim emergency lights flicker sporadically, casting long shadows across the control panels and consoles that line the walls. The captain's chair sits empty, its leather upholstery cracked and worn from years of neglect. A holo-display flickers to life intermittently, displaying fragmented data logs and system diagnostics, hinting at the chaos that unfolded before the ship was abandoned. The air is thick with dust, and the faint hum of dormant machinery echoes through the vast chamber. Tangled wires dangle from the ceiling, evidence of hasty repairs made in the ship's final moments. Despite the emptiness, there's a palpable sense of unease lingering in the air, as if the very walls of the bridge hold the secrets of the ship's mysterious fate. You can't shake the feeling that you're not alone, that something unseen is watching your every move from the shadows.",
+        "valid_exits": ["E"],
+        "exits": [
+            {"dir": "E", "dir_name": "East", "room_num": 2}
+        ]
+    },
+    {
+        "room_num": 2,
+        "title": "West Hallway",
+        "description": "You step into the hallway of the abandoned spaceship, greeted by flickering fluorescent lights casting eerie shadows across the metallic walls. The air is stale, carrying a faint scent of rust and decay. Along the corridor, doors to crew quarters stand ominously ajar, their interiors shrouded in darkness. Wires dangle from the ceiling, some sparking sporadically, evidence of the ship's neglected state. The floor beneath your feet is littered with debris and discarded belongings, remnants of the hurried evacuation that took place long ago. As you traverse the desolate hallway, the silence is deafening, broken only by the occasional creak of metal and the distant hum of malfunctioning machinery. You can't shake the feeling of being watched.",
+        "valid_exits": ["E", "W"],
+        "exits": [
+            {"dir": "W", "dir_name": "West", "room_num": 1},
+            {"dir": "E", "dir_name": "East", "room_num": 3}
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      {"option": "Paris", "correct": true},
+      {"option": "London", "correct": false},
+      {"option": "Berlin", "correct": false},
+      {"option": "Madrid", "correct": false}
+    ]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      {"option": "Jupiter", "correct": false},
+      {"option": "Mars", "correct": true},
+      {"option": "Venus", "correct": false},
+      {"option": "Mercury", "correct": false}
+    ]
+  },
+  {
+    "question": "Who wrote the play 'Hamlet'?",
+    "answers": [
+      {"option": "William Shakespeare", "correct": true},
+      {"option": "Charles Dickens", "correct": false},
+      {"option": "Jane Austen", "correct": false},
+      {"option": "F. Scott Fitzgerald", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answers": [
+      {"option": "Mount Kilimanjaro", "correct": false},
+      {"option": "Mount Everest", "correct": true},
+      {"option": "K2", "correct": false},
+      {"option": "Mount Fuji", "correct": false}
+    ]
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answers": [
+      {"option": "China", "correct": false},
+      {"option": "South Korea", "correct": false},
+      {"option": "Japan", "correct": true},
+      {"option": "Thailand", "correct": false}
+    ]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      {"option": "Vincent van Gogh", "correct": false},
+      {"option": "Leonardo da Vinci", "correct": true},
+      {"option": "Pablo Picasso", "correct": false},
+      {"option": "Claude Monet", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the largest ocean in the world?",
+    "answers": [
+      {"option": "Atlantic Ocean", "correct": false},
+      {"option": "Indian Ocean", "correct": false},
+      {"option": "Pacific Ocean", "correct": true},
+      {"option": "Arctic Ocean", "correct": false}
+    ]
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answers": [
+      {"option": "Harper Lee", "correct": true},
+      {"option": "Mark Twain", "correct": false},
+      {"option": "Ernest Hemingway", "correct": false},
+      {"option": "F. Scott Fitzgerald", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answers": [
+      {"option": "Sydney", "correct": false},
+      {"option": "Melbourne", "correct": false},
+      {"option": "Canberra", "correct": true},
+      {"option": "Perth", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "answers": [
+      {"option": "Elephant", "correct": false},
+      {"option": "Blue Whale", "correct": true},
+      {"option": "Giraffe", "correct": false},
+      {"option": "Hippopotamus", "correct": false}
+    ]
+  }
+]
